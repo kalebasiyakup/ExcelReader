@@ -1,0 +1,10 @@
+D:\Temp\WinformExcelReader\WinformExcelReader\bin\Debug\WinformExcelReader.exe.config
+D:\Temp\WinformExcelReader\WinformExcelReader\bin\Debug\WinformExcelReader.exe
+D:\Temp\WinformExcelReader\WinformExcelReader\bin\Debug\WinformExcelReader.pdb
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.csprojResolveAssemblyReference.cache
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.frmExcelRead.resources
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.Properties.Resources.resources
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.csproj.GenerateResource.cache
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.csproj.CoreCompileInputs.cache
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.exe
+D:\Temp\WinformExcelReader\WinformExcelReader\obj\Debug\WinformExcelReader.pdb
